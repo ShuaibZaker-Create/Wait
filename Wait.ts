@@ -3,7 +3,7 @@
 //% groups=["Custom Blocks"]
 namespace Wait {
     /**
-     * Wait for a number of seconds using microsecond precision
+     * Wait for a number of seconds.
      */
     //% block="wait %Seconds seconds"
     //% Seconds.defl=1
